@@ -94,4 +94,58 @@ If the number is not a multiple of 3 or 5, print the number itself
 Example Output:
 
 1, 2, Ping, 4, Pong, Ping, 7, 8, Ping, Pong, 11, Ping, 13, 14, PingPong, 16 …..
+
+
+🟢 Problem 11: Find the Second Largest Number
+
+Write a function that finds the second largest number in an array.
+
+Example:
+
+Input: [10, 20, 5, 8, 30]  
+Output: 20
+
+🟢 Problem 12: Count Words in a String
+
+Write a function that counts how many words are in a given string.
+
+Example:
+
+Input: "I love programming"  
+Output: 3
+
+🟢 Problem 13: Find Index of an Element
+
+Write a function that returns the index of an element in an array.
+If the element does not exist, return -1.
+
+Example:
+
+Input: [10, 20, 30, 40], Search: 30  
+Output: 2
+
+🟢 Problem 14: FizzBuzz (Extended PingPong)
+
+Write a function that prints numbers from 1 to 50:
+
+For multiples of 3, print "Fizz"
+
+For multiples of 5, print "Buzz"
+
+For multiples of both 3 and 5, print "FizzBuzz"
+
+Otherwise, print the number
+
+Example:
+
+1, 2, Fizz, 4, Buzz, Fizz, 7, 8, Fizz, Buzz …
+
+🟢 Problem 15: Reverse Words in a Sentence
+
+Write a function that reverses each word in a sentence but keeps the word order the same.
+
+Example:
+
+Input: "Hello World"  
+Output: "olleH dlroW"
 */
